@@ -7,7 +7,7 @@ A two-stage proof-of-concept to detect anomalies in application logs:
 Includes **new-app onboarding** (schema detection/mapping), **compatibility checks**, and **PSI drift** on numeric features.
 
 <p align="center">
-  <img src="assets/architecture.png" alt="Architecture" width="760">
+  <img src="assets/Architecture.png" alt="Architecture" width="760">
 </p>
 
 ---
